@@ -1,4 +1,3 @@
-# source-water-use-pca
 # Source water use of trees and grasses using a PCA approach
 
 **Name:** Emily Wedel<br>
